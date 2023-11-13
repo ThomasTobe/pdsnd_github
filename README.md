@@ -1,23 +1,22 @@
 ### Date created
-Project was created on the 12th November 2023
+Project was creaded on 12th November 2023
 
 ### Project Title
 Analyzing the US Bikeshare Data
 
 ### Description
-Analyzing the bike sharing system dataset across major cities in the US
+Exploring Bike Share Data from Major US Cities
 
-In this project, data was provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. The scope of this analysis also covers the comparision of the system usage between three large cities: Chicago, New York City, and Washington, DC.
+This project delves into the dataset from Motivate, a prominent bike share system provider serving numerous major cities in the United States. Its aim is to uncover trends in bike share usage, with a specific focus on comparing system usage across three significant urban centers: Chicago, New York City, and Washington, DC.
 
-There has been a significant increase in the proliferation and adoption of bicycle-sharing systems in cities worldwide. These systems enable users to easily rent bicycles for brief periods at an affordable cost, facilitating the convenient borrowing of bikes from one location (point A) and returning them at another (point B) hence this project was carried out to understudy the trend, discover insights and make meaningful recommmendations.
+The growth and widespread adoption of bicycle-sharing systems in cities worldwide have been remarkable. These systems allow users to conveniently rent bikes for short durations at an affordable rate, making it easy to pick up a bicycle at one location (point A) and return it at another (point B). Therefore, this project was undertaken to analyze these trends, extract valuable insights, and formulate practical recommendations.
 
-This analysis was done using python
+Python was employed to conduct this analysis
 
 ### Files used
-* Washington.csv
-* Chicago.csv
-* New_york_city.csv
-
+*Washington.csv
+*Chicago.csv
+*New_york_city.csv
 
 ### Credits
-Appreciation to Udacity for birthing this project
+My flowers goes to Udacity for birthing this project

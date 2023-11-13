@@ -26,6 +26,8 @@ def get_filters():
         else:
             print("Invalid input. Please enter a valid city name.")
 
+    # Getting user inputs across months, days, etc.
+    
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
         month = input("Enter the name of the month (all, January, February, ..., June): ").lower()
