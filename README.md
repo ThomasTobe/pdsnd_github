@@ -1,6 +1,5 @@
-
 ### Date created
-Project was creaded on Sunday, 12th November 2023
+Project was creaded on 12th November 2023
 
 ### Project Title
 Analyzing the US Bikeshare Data
@@ -20,4 +19,4 @@ Python was employed to conduct this analysis
 *New_york_city.csv
 
 ### Credits
-My flowers goes to Udacity for birthing this project 
+My flowers goes to Udacity for birthing this project

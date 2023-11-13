@@ -36,7 +36,7 @@ def get_filters():
         else:
             print("Invalid input. Please enter a valid month.")
 
-    # TO DO: get user input for day of the week (all, monday, tuesday, ... sunday)
+    # TO DO: get user input for day of the week (all, monday,tuesday,... sunday)
     while True:
         day = input("Enter the name of the day of the week (all, Monday, Tuesday, ..., Sunday): ").lower()
         if day in ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']:
@@ -161,7 +161,7 @@ def user_stats(df):
     else:
         print("Gender data not available for this city.")
 
-    # Display earliest, most recent, and most common year of birth
+    # Display the earliest, most recent, and most common year of birth
     if 'Birth Year' in df:
         earliest_birth_year = int(df['Birth Year'].min())
         most_recent_birth_year = int(df['Birth Year'].max())
